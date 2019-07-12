@@ -4,3 +4,5 @@ Merhaba ben Abdurrahman Oğuzhan Durmaz. Kaggle’da yer alan Classify gestures 
 DataSet: https://www.kaggle.com/kyr7plus/emg-4
 
 Video: https://www.youtube.com/watch?v=xKUn0-Bhb7U
+
+![alt text](https://i.ibb.co/LRc8wGf/emg-sinyal.png)
